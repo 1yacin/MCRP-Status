@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["minexrp.net"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = ['idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
